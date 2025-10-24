@@ -1,1 +1,1 @@
-# TROPO_BaseCode
+# Triply-Resonant-Parametric-Oscillator-Generalized
